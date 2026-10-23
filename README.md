@@ -1,5 +1,7 @@
 # MISE — AI Operations Agent for Restaurant Managers
 
+[![ci](https://github.com/TyBM223/AI-Operations-Agent-for-Restaurants/actions/workflows/ci.yml/badge.svg)](https://github.com/TyBM223/AI-Operations-Agent-for-Restaurants/actions/workflows/ci.yml)
+
 A conversational AI agent that handles end-of-shift operations for restaurant managers. Built with React + Anthropic Claude (tool use / function calling).
 
 ## What it does
@@ -66,3 +68,7 @@ You'll need an Anthropic API key (get one at console.anthropic.com). Enter it in
 Most restaurants — especially independent ones — have no intelligent tooling for end-of-shift operations. Managers calculate tip outs by hand, guess at inventory, and lose money to both errors and waste every night. This agent replaces that manual work with a conversational interface that any manager can use without training.
 
 The longer-term vision is a full AI operations layer for independent restaurants: scheduling, ordering, customer follow-up, and financial reporting — all accessible through natural language.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
